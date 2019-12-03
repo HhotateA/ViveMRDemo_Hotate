@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vivemr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "A:\\Data\\Document\\Unity\\ViveMRDemo_Hotate\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ViveMRDemo [Testing]"
+        }
+      }
+    }
+  ]
+}
